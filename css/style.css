@@ -2478,3 +2478,36 @@ section.section .empty-section {
   padding-top: 20px;
   text-align: center;
 }
+.keynote {
+  display: table;
+  padding: 20px 30%;
+}
+.keynote .keynote-title {
+  display: table-cell;
+  /* float: left; */
+  width: 200px;
+  text-align: center;
+}
+.keynote .keynote-intro {
+  display: table-cell;
+  /* vertical-align: top; */
+  /* float: right; */
+}
+
+.keynote .keynote-title img {
+  border-radius: 50%;
+  width: 120px;
+  margin-right: 15px;
+}
+.keynote .keynote-title h4 {
+  font-size: 25px;
+}
+.keynote .keynote-title a {
+  color: #777;
+  line-height: 30px;
+}
+
+.keynote .keynote-intro .sub-title {
+  font-size: 20px;
+  font-weight: bold;
+}
