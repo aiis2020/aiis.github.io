@@ -2438,10 +2438,10 @@ section.section table td {
 }
 .card-title {
   margin-bottom: 0.75rem;
-  font-size: 12.5px;
+  font-size: 13px;
 }
 .card-text {
-  font-size: 12px !important;
+  font-size: 12.5px !important;
   line-height: 1.2 !important;
   text-align: left;
   text-indent: 0 !important;
@@ -2487,7 +2487,7 @@ section.section .empty-section {
 .keynote .keynote-title {
   display: table-cell;
   /* float: left; */
-  width: 200px;
+  width: 300px;
   text-align: center;
 }
 .keynote .keynote-intro {
