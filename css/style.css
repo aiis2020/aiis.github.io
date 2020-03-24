@@ -2487,7 +2487,7 @@ section.section .empty-section {
 .keynote .keynote-title {
   display: table-cell;
   /* float: left; */
-  width: 300px;
+  width: 500px;
   text-align: center;
 }
 .keynote .keynote-intro {
