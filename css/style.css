@@ -2520,4 +2520,7 @@ section.section .empty-section {
   }
 }
 
-.div-inline{ display:inline} 
+.div-inline{ 
+  display: inline
+  height: 30px
+} 
